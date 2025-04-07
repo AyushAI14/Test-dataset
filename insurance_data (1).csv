@@ -1,0 +1,11 @@
+Age,Gender,Vehicle_Age,Annual_Income,Driving_Experience,Claim
+25,Male,2,45000,3,0
+32,Female,5,52000,10,1
+45,Male,8,70000,20,1
+22,Female,1,30000,2,0
+39,Male,6,62000,12,1
+28,Female,2,48000,5,0
+50,Male,10,80000,25,1
+31,Female,3,55000,8,0
+43,Male,7,67000,18,1
+36,Female,4,60000,10,0
